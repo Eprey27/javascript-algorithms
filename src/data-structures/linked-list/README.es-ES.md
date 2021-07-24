@@ -8,8 +8,8 @@ _Lee esto en otros idiomas:_
 [_English_](README.md)
 
 En ciencias de la computación una **lista enlazada** es una colección linear
-de elemntos de datos, en los cuales el orden linear no es dado por
-su posción física en memoria. En cambio, cada
+de elementos de datos, en los cuales el orden linear no es dado por
+su posición física en memoria. En cambio, cada
 elemento señala al siguiente. Es una estructura de datos
 que consiste en un grupo de nodos los cuales juntos representan
 una secuencia. Bajo la forma más simple, cada nodo es
@@ -19,14 +19,14 @@ permite la inserción o remoción de elementos
 desde cualquier posición en la secuencia durante la iteración.
 Variantes más complejas agregan lazos adicionales, permitiendo
 una eficiente inserción o remoción desde referencias arbitrarias
-del elemento. Una desventaja de las listas lazadas es que el tiempo de
+del elemento. Una desventaja de las listas enlazadas es que el tiempo de
 acceso es linear (y difícil de canalizar). Un acceso
 más rápido, como un acceso aleatorio, no es factible. Los arreglos
-tienen una mejor locazion comparados con las listas lazadas.
+tienen una mejor locazión comparados con las listas enlazadas.
 
 ![Linked List](https://upload.wikimedia.org/wikipedia/commons/6/6d/Singly-linked-list.svg)
 
-## Pseudocódigo para operacones básicas
+## Pseudocódigo para operaciones básicas
 
 ### Insertar
 
